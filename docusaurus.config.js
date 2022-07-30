@@ -102,7 +102,7 @@ const config = {
             label: 'Nadva',
           },
           {
-            to: 'tinan/tinan-intro',
+            to: 'tinan/tinan-overview',
             position: 'left',
             label: 'Tinan',
           },
@@ -143,7 +143,7 @@ const config = {
               },
               {
                 label: 'Tinan',
-                to: '/tinan/tinan-intro',
+                to: '/tinan/tinan-overview',
               },
             ],
           },
